@@ -16,11 +16,6 @@
           <br/><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
           </div>
     </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center">  </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
     
 
 ### Statistics
