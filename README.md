@@ -14,6 +14,7 @@
           <br/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
     </div>
+    <div style="border-bottom: 1px solid #d8dee4; color: #282d33;"/>
         <a href="https://github.com/devxb/gitanimals">
           <img
             src="https://render.gitanimals.org/farms/yenqkr"
