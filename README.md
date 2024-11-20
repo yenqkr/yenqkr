@@ -1,11 +1,4 @@
 <div align= "center">
-    <a href="https://github.com/devxb/gitanimals">
-      <img
-        src="https://render.gitanimals.org/farms/yenqkr"
-        width="600"
-        height="300"
-      />
-    </a>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
@@ -20,7 +13,14 @@
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-          </div>
+    </div>
+        <a href="https://github.com/devxb/gitanimals">
+          <img
+            src="https://render.gitanimals.org/farms/yenqkr"
+            width="600"
+            height="300"
+          />
+        </a>
     </div>
 
 
